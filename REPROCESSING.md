@@ -1,17 +1,18 @@
-# Resnake
-## Kino Rose
+Reprocessing Example
+---
 
-An implementation of an infinite runner game using ReasonML and Reprocessing.
+Clone this repo to get started with [Reprocessing](https://github.com/schmavery/reprocessing).
 
-## Technologies
-* ReasonML
-* Reprocessing
+Demos are on other branches:
 
-## How To Run
+- [Flappy Bird](https://github.com/bsansouci/reprocessing-example/tree/livestream-flappybird)
+- [2048](https://github.com/bsansouci/reprocessing-example/tree/2048)
 
-### Clone
+...and more on the [Reprocessing repo](https://github.com/schmavery/reprocessing#projects-using-reprocessing).
+
+## How to
 ```
-git clone hhttps://github.com/KinoAR/rerunner.git
+git clone https://github.com/bsansouci/reprocessing-example.git
 ```
 
 ### Install
@@ -35,5 +36,3 @@ To build to JS run `npm run build:web` and then run a static server, like `pytho
 To build to native run `npm run build:native` and run `npm run start:native`
 
 The build system used is [bsb-native](https://github.com/bsansouci/bucklescript).
-
-## How To Play
