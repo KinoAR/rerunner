@@ -1,4 +1,4 @@
-# Resnake
+# Rerunner
 ## Kino Rose
 
 An implementation of an infinite runner game using ReasonML and Reprocessing.
